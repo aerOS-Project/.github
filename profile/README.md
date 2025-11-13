@@ -49,19 +49,29 @@ For general information, consortium members, public deliverables, and news:
 
 ## 🧩 Open Source Contributions
 
-The main open-source results of **aerOS** are being released through a dedicated project established under the **Eclipse Foundation**:  
+The main open-source results of **aerOS** are being released through a dedicated project established under the [Eclipse Foundation](https://www.eclipse.org/):  
 ### [**Eclipse aeriOS**](https://projects.eclipse.org/projects/iot.aerios)
 
 <p>
   <img src="../images/aeriOS_logo.png" alt="aeriOS Logo" width="300"/>
 </p>
 
+<p>
+  <a href="https://github.com/eclipse-aerios" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&style=for-the-badge" alt="View on GitHub">
+  </a>
+</p>
+
 The corresponding repositories and releases are available via:  
 ➡️ [**github.com/eclipse-aerios**](https://github.com/eclipse-aerios)
 
+<p>
+  <img src="../images/eclipse_incubation_vertical.png" alt="aeriOS Logo" width="100"/>
+</p>
 
 
-## 🧠 About
+
+## ℹ️ About
 
 This project has received funding from the **European Union’s Horizon Europe** research and innovation programme under **grant agreement No. 101069732**
 
