@@ -70,6 +70,16 @@ The corresponding repositories and releases are available via:
 </p>
 
 
+## 📂 Open datasets in Zenodo
+
+**aerOS** has published several datasets in the Zenodo open repository, available inside the [aerOS community](https://zenodo.org/communities/aeros).
+
+<p> 
+  <a href="https://zenodo.org/communities/aeros/">
+    <img src="https://img.shields.io/badge/Zenodo-“aeros” Community-4e9af1?logo=zenodo&style=for-the-badge" alt="Zenodo Community: aerOS" />
+  </a>
+</p>
+
 
 ## ℹ️ About
 
